@@ -2,3 +2,4 @@
 *.pyc
 .DS_Store
 _site
+workshop/01_Saturday/01_Saturday_am/0000_slides/.ipynb_checkpoints/*
